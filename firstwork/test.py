@@ -69,6 +69,8 @@ print(tuple['sdfadsf'])
 print(hex(55555))
 print(oct(22))
 
+print("666")
+
 
 
 
